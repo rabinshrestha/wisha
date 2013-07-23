@@ -1,0 +1,66 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	color:#000;
+}
+
+#print_logo{
+	display:block;
+}
+
+#logo_cnr{
+	display:none;
+}
+
+#top_nav{
+	display:none;
+}
+
+#main_nav{
+	display:none;
+}
+
+.ul{
+	list-style:disc;
+	padding-left:15px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#80817c;
+}
+
+#mc_column3{display:none;}
+
+#top_nav_menu{
+	display:none;
+}
+
+#top_nav_counter{
+	display:none;
+}
+
+#tabs10{
+	display:none;
+}
+
+#left_column_holder{
+	width:95%;
+	float:none;
+}
+
+#products_example{
+	width:850px;
+	float:none;
+	right:180px;
+}
+
+#mc_column1{
+	width:95%;
+	float:none;
+	}
+
+
+#footer{
+	display:none;
+}
+
